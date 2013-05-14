@@ -1,0 +1,9 @@
+1. Have at-least 1 instructor for 4 people.
+2. Before the session starts, make sure everyone has the project checked out and running.
+3. Start with introducing the Agenda for the day.
+4. Give basic gyaan about a topic, and jump straight to the assignment. Go into theoretical details after people are done with the assignment.
+6. When someone is stuck during the assignment, the instructors should proactively ask and resolve problems. Try helping people who are stuck so that everyone is on the same page at the end of the assignment.
+7. While the assignment is going on, make sure the code is updated on the instructor's local machine so that it can be projected and shown at the end of assignment.
+8. Make sure there are no side conversations going on while the instructor is presenting.
+9. Keep asking people if they have any questions.
+10. Conduct dry-runs before every session.
