@@ -1,0 +1,12 @@
+1. Make sure people have taken the latest pull and the app is running.
+2. Introduce the agenda.
+3. Introduce Selection Widgets.
+4. Explain how we could add the issues to a Linear Layout by demonstrating the code.
+5. Introduce Adapters 
+6. Explain the Default Adapters
+7. Start with the first assignment: Get the list of issues using the default adapter
+8. Explain Custom Adapters and need
+9. Start with the second assignment: Get the list of issues using the custom adapter and make all views on the List View clickable
+10. Introduce Pending Intents and show a small demo using pending intents(Notifications)
+11. Recap of what we covered.
+12. Provide references

@@ -1,0 +1,13 @@
+1. Make sure people have taken the latest pull and the app is running.
+2. Introduce the agenda.
+3. Introduce Kranti API
+4. Explaining Intents (Explicit and Implicit) 
+5. Start with first assignment : Using implicit Intents for capturing Images
+6. Explain StartActivityForResult and onActivityResult
+7. Using data of intent from onActivityResult
+8. SQL in Android
+9. Explaining SQLiteOpenHelper to create and update databases
+10. Start Second assignment: Create a database and try to insert data into it
+11. Introduction to IntentFilter
+12. Recap of what we covered.
+13. Provide references
