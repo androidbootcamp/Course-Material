@@ -1,9 +1,0 @@
-1. Make sure people have taken the latest pull and the app is running.
-2. Introduce the agenda.
-3. Detailed recap of basic project structure and components in Android.
-4. Activity Lifecycle. 
-5. Start with SMS Interceptor assignment.
-6. Explain Broadcast Receivers and how they work.
-7. Explain concepts about Signing and Publishing on Android.
-8. Demo Asyncrhonous Server Calls in Android, along with usages.
-9. Feedback and closing of the Bootcamp.
