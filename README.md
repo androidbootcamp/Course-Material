@@ -1,10 +1,10 @@
 Course-Material
 ===============
 
-This the Course Material Repository for the beginner's Android Bootcamp. It contains presentations for all the 6 sessions.
-Each session is 3 hours, and it is recommended you have 2 sessions per day, with a 45 minute lunch break in between.
-The last session is smaller, around 1.5 hours.
-We generally conduct a retrospective towards the end of session 5, or the beginning of session 6.
+This the Course Material Repository for the beginner's Android Bootcamp. It contains presentations for all the 6 sessions.  
+Each session is 3 hours, and it is recommended you have 2 sessions per day, with a 45 minute lunch break in between.  
+The last session is smaller, around 1.5 hours.  
+We generally conduct a retrospective towards the end of session 5, or the beginning of session 6.  
 
 Here are what each of the sessions cover -  
 Session 1 - Basics of Android, project structure, Activities, Layouts, Activity Lifecycle, Explicit Intents, Navigation Using Intents, Gradle Plugin.  
